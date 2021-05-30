@@ -1,6 +1,6 @@
 ### Hi there, I'm Amaury Martin 👋🇧🇷
 
-I'm a software engineer whose career started by the end of 2016. Since than I've been working on Web development, mainly on backend, but I seek to improve my frontend and mobile skills to become a fullstack developer. I have a Bachelor's degree in Computer Engineering at [Universidade Federal do Ceará](https://en.wikipedia.org/wiki/Federal_University_of_Cear%C3%A1 "Federal University of Ceara") since 2018. My first "Hello World" program was in C way back in 2012. After that I worked with Java, Ruby and JavaScript and I want to know better about functional languages like Elixir. Please, contact me if you have same interest or questions!
+I'm a software engineer whose career started by the end of 2016. Since then I've been working on Web development, mainly on backend, but I seek to improve my frontend and mobile skills to become a fullstack developer. I have a Bachelor's degree in Computer Engineering at [Universidade Federal do Ceará](https://en.wikipedia.org/wiki/Federal_University_of_Cear%C3%A1 "Federal University of Ceara") since 2018. My first "Hello World" program was in C way back in 2012. After that I worked with Java, Ruby and JavaScript and I want to know better about functional languages like Elixir. Please, contact me if you have same interest or questions!
 
 <a href="https://github.com/amaurymartin">
   <img alt="github" src="https://img.shields.io/badge/github-44475A?style=for-the-badge&logo=github&logoColor=50fA7B"/>
